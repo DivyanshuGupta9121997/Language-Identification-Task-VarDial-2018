@@ -6,4 +6,5 @@ Please visit:
 The paper on the implementation is **IIT (BHU) System for Indo-Aryan Language Identification (ILI) at
 VarDial 2018**
 
-url: https://www.aclweb.org/anthology/W18-3921
+https://www.aclweb.org/anthology/W18-3921
+http://web.science.mq.edu.au/~smalmasi/vardial5/pdf/W18-3921.pdf
